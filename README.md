@@ -26,10 +26,10 @@ Evidence-based guide to vision health interventions — what works, what doesn't
 
 ## Methodology
 
-Research compiled from peer-reviewed literature (PubMed). All PMIDs independently verified. See audit files for verification details.
+Research compiled from peer-reviewed literature (PubMed). All PMIDs verified via AI-assisted review. See audit files for verification details.
 
 ---
 
-⚠️ **AI Disclosure:** This research was compiled with AI assistance. All citations have been independently verified against PubMed.
+⚠️ **AI Disclosure:** This research was compiled with AI assistance. All citations were verified against PubMed using AI-assisted review.
 
 *For individual recommendations, consult your eye care provider.*

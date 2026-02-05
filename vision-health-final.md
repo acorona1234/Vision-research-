@@ -237,7 +237,7 @@ The AREDS2 trial was a major NIH-funded study (4,203 participants, 5 years). The
 
 ## Key Sources
 
-All PMIDs verified. The major ones:
+All PMIDs verified via AI-assisted review. The major ones:
 
 - **TSB case reports:** PMID 27301710 (NEJM 2016)
 - **AREDS2 trial:** PMID 23644932
@@ -249,7 +249,7 @@ All PMIDs verified. The major ones:
 
 ---
 
-*Compiled from peer-reviewed literature. All citations verified February 2026.*
+*Compiled from peer-reviewed literature. All citations verified via AI-assisted review, February 2026.*
 
 *For individual recommendations, consult your eye care provider — especially about any myopia management options for your kids.*
 
