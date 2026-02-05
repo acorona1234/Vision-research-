@@ -1,6 +1,6 @@
 # Vision Health Research
 
-Evidence-based guide to vision health interventions — what works, what doesn't, and what's just marketing hype.
+A research summary compiled from peer-reviewed literature — what the evidence supports, what it doesn't, and where marketing outpaces the science.
 
 ## 📄 Documents
 
@@ -11,25 +11,25 @@ Evidence-based guide to vision health interventions — what works, what doesn't
 
 ## Key Findings
 
-### ✅ What Works (Strong Evidence)
-- **Outdoor time for kids** (2+ hrs/day) — prevents myopia
-- **Low-dose atropine** (0.01-0.05%) — slows myopia progression ~50%
+### ✅ What Works (Supported by Multiple RCTs)
+- **Outdoor time for kids** (2+ hrs/day) — multiple studies show protective effect against myopia development
+- **Low-dose atropine** (0.01-0.05%) — studies suggest may slow myopia progression by roughly 50%, though results vary
 - **AREDS2 formula** — but ONLY for intermediate/advanced AMD
 - **Screen breaks** — 20-20-20 rule for digital eye strain
 - **Preservative-free artificial tears** — for dry eye/strain
 
-### ❌ What Doesn't Work (Despite Marketing)
-- **Blue light blocking glasses** — no quality evidence for eye strain or protection
+### ❌ What Lacks Supporting Evidence (Despite Marketing)
+- **Blue light blocking glasses** — we found no high-quality RCT evidence for eye strain or protection benefits
 - **Omega-3s for dry eye** — DREAM trial showed no benefit vs placebo
 - **Bilberry supplements** — marketing exceeds evidence
 - **Under-correcting kids' glasses** — may actually worsen myopia
 
 ## Methodology
 
-Research compiled from peer-reviewed literature (PubMed). All PMIDs verified via AI-assisted review. See audit files for verification details.
+Research compiled from peer-reviewed literature (PubMed). PMIDs were checked for existence and basic relevance using AI tools. This is not equivalent to expert review — readers should verify primary sources for medical decisions. See audit files for verification details.
 
 ---
 
-⚠️ **AI Disclosure:** This research was compiled with AI assistance. All citations were verified against PubMed using AI-assisted review.
+⚠️ **AI Disclosure:** This research was compiled with AI assistance. PMIDs were verified for existence using AI tools, but this does not constitute expert review of methodology or conclusions.
 
 *For individual recommendations, consult your eye care provider.*
